@@ -1,0 +1,40 @@
+/* *{
+    margin  : 0;
+    padding : 0;
+    box-sizing: border-box;
+} */
+/* body{
+    background-color: black;
+} */
+input {
+    width :  150px;
+    height: 25px;
+    border-radius: 8px;
+}
+button{
+    width: 100px;
+    height: 30px;
+    border-radius: 8px;
+    font-size: 800;
+    font-weight: 800;
+}
+input:hover{
+    transform: scale(1.1);
+}
+button:hover{
+    transform: scale(1.1);
+}
+table {
+
+    width: 100%;
+    /* border: 2px solid red; */
+}
+
+ .tablerow{
+    border: 2px solid white;
+}
+
+td{
+    border: 2px solid white;
+
+}
